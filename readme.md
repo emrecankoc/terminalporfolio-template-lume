@@ -18,26 +18,6 @@ To use this template, you will need to have Deno installed on your machine. Once
 4. Open your browser and navigate to http://localhost:3000 to view your site
 5. Start building your site by editing the files in the src directory
 
-## Directory Structure
-The directory structure of this template is as follows:
-
-├── src/
-│ ├── _includes/
-│ │ 	├── layout.njk
-│ │	├── ...
-│ ├── styles/
-│ │	├── mainstyles.css
-│ │ 	├── ...
-│ ├── index.md
-│ └── ...
-├── _config.ts
-├── .gitignore
-├── deno.json
-├── deno.lock
-└── README.md
-
-The src directory contains all of the files for your website, including HTML, CSS and nunjucks templates.
-
 ## Contributing
 If you find a bug or have a feature request, please open an issue or submit a pull request. Contributions are always welcome!
 
