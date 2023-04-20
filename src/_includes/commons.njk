@@ -1,0 +1,13 @@
+{# 
+# Created on Tue 20 Apr 2023
+#
+# Copyright (c) 2023 - github.com/emrecankoc
+#}
+{% macro commandblock(name) %}
+  <div class="text-sm font-light font-mono">
+    <span class="text-purple-400">user@device:</span>
+    <span class="text-orange-500">~/</span>
+    <span class="text-gray-400">$</span>
+    <span class="text-gray-400">{{name}}</span>
+  </div>
+{% endmacro %}
