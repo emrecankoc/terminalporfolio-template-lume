@@ -2,6 +2,8 @@
 # TerminalPortfolio Template Lume
 Introducing a terminal-like portfolio page template. This [Lume](https://lume.land/) template help you quickly create, build and deploy static portfolio page. The template comes with a set of preconfigured tools that will allow you to focus on building your site without worrying about the underlying infrastructure.
 
+[Demo](https://low-frog-79.deno.land/)
+
 ## Features
 - Deno - future promising new javascript runtime
 - Lume - deno based static site generator
