@@ -28,3 +28,4 @@ jobs:
         with:
           project: low-frog-79
           entrypoint: serve.ts
+          import-map: import-map.json
